@@ -50,3 +50,12 @@ Thumbs.db
 *.jar
 *.war
 *.ear
+
+/.idea
+QUICKSTART.md
+PROJECT_COMPLETE.md
+project-structure.py
+IMPLEMENTATION_SUMMARY.md
+mvnw
+mvnw.cmd
+/.mvn
